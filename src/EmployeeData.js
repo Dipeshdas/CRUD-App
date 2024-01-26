@@ -1,0 +1,19 @@
+export const empData=[{
+    id:1,
+    firstName:'Dipesh',
+    lastName:'Das',
+    age:22
+},
+{
+    id:2,
+    firstName:'Rajen',
+    lastName:'Saha',
+    age:20
+},
+{
+    id:3,
+    firstName:'Ankur',
+    lastName:'Mondal',
+    age:24
+},
+]
